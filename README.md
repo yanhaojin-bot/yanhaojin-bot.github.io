@@ -4,96 +4,63 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## Current status -- Jul. 5, 2022
+I am happy to get a recommendation from  Google's Hiring Committee. Cheers!
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Right now, I am in Google's team match phase and would like to join in a engineering team this August or September as a L3 Engineer.
 
-## Features
+ My public profile shows that the internship projects which I participated in at Microsoft and TikTok and several courses I took at the university equipped me with hands-on experience in cloud computing, mobile and full-stack development.
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+ I am physically living in California and I am willing to make a move for the right oppotunity at the states. 
 
-## Based on
+ Please let me know if there is any other information I can provide!
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
 
-## Installation (jekyll-remote-theme method)
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
+## Work Experiences
 
-plugins:
-  - jekyll-remote-theme
-```
+ __Microsoft__ (July 2021 - September 2021)
+ Software Engineer Intern
+ [WebView2](https://docs.microsoft.com/en-us/microsoft-edge/webview2/roadmap) for MacOS 
 
-Note: to enable icons you also need to copy over the `_data` folder.
+ - Implemented the Loader module
+ - Located the installation of runtime
 
-## Config
 
-Your `_config.yml` could for example look like this:
+__Bytedance(Tiktok)__ (January 2021 - June 2021)
+Mobile (iOS / Android) Develop Intern
+UGC Team for Car information APP (Dongchedi)
+ - Contributed in Tiktok-Style features using Objective-C & Swift, UIKit & Auto Layout, SQLite Cache
+ - Designed and developed a series of  UI component with customized layouts on both iOS and Android applications
 
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+__Leyan Technology Co. Ltd.__ (July 2020 - December 2020)
+Mobile Game Developer
 
-# Layout
+  - Implemented Android mobile game using Unity 3D
+  - Reduced 80% out of memory app crashes 
 
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+## Education
 
-# Menu
+__University of Southern California__ (2020 - 2022) 
+M.S. in Computer Science
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+__University of Liverpool__ (2015 - 2019) 
+B.S. in Computer Science
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+__Xi'an Jiaotong-Liverpool University__ (2015 - 2019)
+B.S. in Computer Science
+  - Best Performance in Final Year Project (Top 1 in Dept. Computer Science)
 
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
 
-plugins:
- - jekyll-feed
+## Project 
 
-```
+__[USCFilm](https://uscfilms.azurewebsites.net/) : Netflix-style media information website based on Angular__
 
-## MathJax
+ - A Responsive website developed byAngular, Bootstrap, Express.js & TMDBAPIs, MongoDB and deployed onAzure
 
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
+__[Social Matching Service](https://github.com/yanhaojin-bot/socketProgramming)  based on Socket Programming__
 
-## License
+ - Designed and developed client/server applications using C++, TCP and UDP Sockets on Linux Platform
 
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+ - The service handles different types of operations like chatting, searching, dating match
