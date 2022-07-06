@@ -42,13 +42,13 @@ Mobile Game Developer
 
 ## Education
 
-__University of Southern California__ (2020 - 2022) 
+__University of Southern California__ (2020 - 2022) <br>
 M.S. in Computer Science
 
-__University of Liverpool__ (2015 - 2019) 
+__University of Liverpool__ (2015 - 2019) <br>
 B.S. in Computer Science
 
-__Xi'an Jiaotong-Liverpool University__ (2015 - 2019)
+__Xi'an Jiaotong-Liverpool University__ (2015 - 2019) <br>
 B.S. in Computer Science
   - Best Performance in Final Year Project (Top 1 in Dept. Computer Science)
 
