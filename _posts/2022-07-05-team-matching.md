@@ -29,7 +29,7 @@ Right now, I am in Google's team match phase and would like to join in a enginee
 
 
 __Bytedance(Tiktok)__ (January 2021 - June 2021) <br>
-Mobile (iOS / Android) Develop Intern
+Mobile (iOS / Android) Develop Intern <br>
 UGC Team for Car information APP (Dongchedi)
  - Contributed in Tiktok-Style features using Objective-C & Swift, UIKit & Auto Layout, SQLite Cache
  - Designed and developed a series of  UI component with customized layouts on both iOS and Android applications
