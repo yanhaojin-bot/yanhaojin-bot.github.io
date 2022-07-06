@@ -7,7 +7,7 @@ layout: page
 ## Current status -- Jul. 5, 2022
 I am happy to get a recommendation from  Google's Hiring Committee. Cheers!
 
-Right now, I am in Google's team match phase and would like to join in a engineering team this August or September as a L3 Engineer.
+Right now, I am in Google's team match phase and would like to join in an engineering team this August or September as a L3 Engineer.
 
  My public profile shows that the internship projects which I participated in at Microsoft and TikTok and several courses I took at the university equipped me with hands-on experience in cloud computing, mobile and full-stack development.
 
@@ -28,7 +28,7 @@ Right now, I am in Google's team match phase and would like to join in a enginee
  - Located the installation of runtime
 
 
-__Bytedance(Tiktok)__ (January 2021 - June 2021) <br>
+__Bytedance(TikTok)__ (January 2021 - June 2021) <br>
 Mobile (iOS / Android) Develop Intern <br>
 UGC Team for Car information APP (Dongchedi)
  - Contributed in Tiktok-Style features using Objective-C & Swift, UIKit & Auto Layout, SQLite Cache
