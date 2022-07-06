@@ -20,7 +20,7 @@ Right now, I am in Google's team match phase and would like to join in a enginee
 
 ## Work Experiences
 
- __Microsoft__ (July 2021 - September 2021)
+ __Microsoft__ (July 2021 - September 2021) <br>
  Software Engineer Intern
  [WebView2](https://docs.microsoft.com/en-us/microsoft-edge/webview2/roadmap) for MacOS 
 
@@ -28,13 +28,13 @@ Right now, I am in Google's team match phase and would like to join in a enginee
  - Located the installation of runtime
 
 
-__Bytedance(Tiktok)__ (January 2021 - June 2021)
+__Bytedance(Tiktok)__ (January 2021 - June 2021) <br>
 Mobile (iOS / Android) Develop Intern
 UGC Team for Car information APP (Dongchedi)
  - Contributed in Tiktok-Style features using Objective-C & Swift, UIKit & Auto Layout, SQLite Cache
  - Designed and developed a series of  UI component with customized layouts on both iOS and Android applications
 
-__Leyan Technology Co. Ltd.__ (July 2020 - December 2020)
+__Leyan Technology Co. Ltd.__ (July 2020 - December 2020) <br>
 Mobile Game Developer
 
   - Implemented Android mobile game using Unity 3D
